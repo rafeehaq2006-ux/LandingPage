@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.logo{
+    align-self:flex-start;
+}
+
+.links{
+    display:flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
