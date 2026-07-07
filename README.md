@@ -1,1 +1,1 @@
-# LandingPage
+As part of my journey in learning web-development through The Odin Project, I carried out a project to make a landing page using HTML and CSS. My main learning objective of this project was to learn and use the flex-box property.
